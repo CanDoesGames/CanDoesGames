@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding random stuff sometimes
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on Whatever it is you want help making :/
-- 📫 How to reach me discord "candoesgames"
+- 📫 How to reach me on discord "candoesgames"
 - 😄 Pronouns: He Him
 - ⚡ Fun fact: I'm not fun
 
