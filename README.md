@@ -2,7 +2,9 @@
 
 # About me:
 **i'm NOT turkish (ik can is a turkish name)**
+
 **I code stuff *sometimes* **
+
 # Languages i code in:
 `lua, python, HTML`
 
