@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @CanDoesGames
-- 👀 I’m interested in Coding random stuff sometimes
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on Whatever it is you want help making :/
-- 📫 How to reach me on discord "candoesgames"
-- 😄 Pronouns: He Him
-- ⚡ Fun fact: I'm not fun
+# Hi, im `can`.
+
+# About me:
+**i'm NOT turkish (ik can is a turkish name)**
+**I code stuff *sometimes* **
+# Languages i code in:
+`lua, python, HTML`
+
+
+
 
 <!---
 CanDoesGames/CanDoesGames is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
