@@ -1,7 +1,6 @@
 # Hi, im `can`.
 
 # About me:
-**i'm NOT turkish (ik can is a turkish name)**
 
 **I code stuff sometimes**
 
