@@ -5,7 +5,7 @@
 **I code stuff sometimes**
 
 # Current Projects:
-https://github.com/CanDoesGames/PrivacyWebhook (v4 coming soon!)
+https://github.com/CanDoesGames/PrivacyWebhook
 
 
 # Languages i code in:
