@@ -5,11 +5,11 @@
 **I code stuff sometimes**
 
 # Current Projects:
-https://github.com/CanDoesGames/PrivacyWebhook
+`nothing, im finding something to work on.`
 
 
 # Languages i code in:
-`lua, python, HTML`
+`HTML, batch, and i feel like im forgetting the 3rd language i code in`
 
 
 
