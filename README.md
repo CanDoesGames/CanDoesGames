@@ -5,11 +5,11 @@
 **I code stuff sometimes**
 
 # Current Projects:
-`nothing, im finding something to work on.`
+**I am currently making websites with html.**
 
 
 # Languages i code in:
-`HTML, batch, and i feel like im forgetting the 3rd language i code in`
+`HTML, batch`
 
 
 
